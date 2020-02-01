@@ -1,5 +1,5 @@
 # crop-classification-randomforest
-This my first Python project where I build a crop classification with random forests (python). 
+This my first Python project (2018) where I build a crop classification with random forests (python). 
 
 We obtain the following:
   - Total accuracy
